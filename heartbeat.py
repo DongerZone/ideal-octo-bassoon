@@ -5,3 +5,5 @@ label = tk.Label(text="Get wrecked")
 label.pack()
 
 window.mainloop()
+
+print("test")
